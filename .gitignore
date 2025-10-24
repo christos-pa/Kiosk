@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.exe
+*.dll
+*.user
+Logs/
+publish/
+Release/
+Debug/
